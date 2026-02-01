@@ -1,0 +1,8 @@
+{
+  "name": "Britpri - Professional Children's Publishing & Education Platform",
+  "description": "A high-end platform for creating age-appropriate, bilingual children's books with character consistency, automated worksheets, and multimedia outputs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
